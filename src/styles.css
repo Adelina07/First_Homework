@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: red;
+}
+
+.float {
+  position: relative;
+}
+.right {
+  float: right;
+  text-align: right;
+}
+
+.left {
+  float: left;
+}
